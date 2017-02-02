@@ -13,3 +13,8 @@ public class luis {
         System.out.println("Hola mundo");
     }
 }
+public class j {
+  public static void main[ String [] jav){
+      System.out.println("Hola mundo soy javier");
+  }
+                          }
